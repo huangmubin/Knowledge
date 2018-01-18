@@ -4,7 +4,7 @@
 >NWeb -> `Preferences` -> `Themes` -> `Enable MathJax(LaTeX)`
 >
 >create: 201801140800 30
->log: 201801141100 60
+>complete: 201801141100 60
 >
 
 # 其他
