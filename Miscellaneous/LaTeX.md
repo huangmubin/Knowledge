@@ -182,6 +182,8 @@ $\overbrace{a+b+c}_{20.0}^{10.0}$
 
 $\underbrace{a+b+c}_{20.0}^{10.0}$
 
+$H(n) = \begin{cases} 0& \text{(n=0 时)} \\ H(n-1)+1+H(n-1)& \text{(n=1,2,3 \cdots 时)} \end{cases}$
+
 ```
 $\overline{a+b+c}$
 
@@ -190,6 +192,10 @@ $\underline{a+b+c}$
 $\overbrace{a+b+c}_{20.0}^{10.0}$
 
 $\underbrace{a+b+c}_{20.0}^{10.0}$
+
+$H(n) = \begin{cases} 0& \text{(n=0 时)} \\ H(n-1)+1+H(n-1)& \text{(n=1,2,3 \cdots 时)} \end{cases}$
+$<first> = \begin{cases} <cases0>& \text{<cases0 text>} \\ <cases1>& \text{cases1 text} <...> \end{cases}}$
+
 ```
 
 ## 希腊字母
