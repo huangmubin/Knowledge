@@ -106,6 +106,8 @@ $\because , \therefore , \forall , \exists$
 
 ```
 \leq , \geq , \neq , \approx , \equiv
+$\not= , \not>$
+$\because , \therefore , \forall , \exists$e
 ```
 
 ## 集合运算符
